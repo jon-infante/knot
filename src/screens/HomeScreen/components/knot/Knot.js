@@ -19,8 +19,8 @@ function Strips() {
   BInnerRing = Constants.models[7]
   BLargeOuterBand = Constants.models[8]
   BLittleInner = Constants.models[9]
-  l2lobea= Constants.l2lobe[0]
-  l2lobeb= Constants.l2lobe[1]
+  l2lobea = Constants.l2lobe[0]
+  l2lobeb = Constants.l2lobe[1]
 
 
   knot= Constants.knot
